@@ -19,7 +19,7 @@ Currently exploring full-stack and native development, one project at a time.
 
 My final-year project at PENS, exploring computer vision, edge computing, and full-stack development to build an automated attendance system.
 
-**Molniya** _(work in progress)_
+**[Molniya](https://github.com/mochalifakbar/molniya)**
 
 A personal Android native project exploring VPN architecture, network protocols, and Kotlin–Rust integration.
 
